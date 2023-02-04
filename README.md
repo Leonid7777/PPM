@@ -1,1 +1,1 @@
-# PPM
+PPM (Prediction by Partial Matching) is an adaptive statistical algorithm for lossless data compression based on contextual modeling and prediction
